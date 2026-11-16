@@ -1,16 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# AL Nails Designers 💅
 
-Currently, two official plugins are available:
+Aplicativo de agendamento de serviços de manicure e pedicure, desenvolvido para facilitar o atendimento, organizar horários e proporcionar praticidade às clientes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Sobre o projeto
 
-## React Compiler
+O AL Nails Designers é uma aplicação desenvolvida para gerenciamento de agendamentos e serviços de beleza.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Funcionalidades
 
-## Expanding the ESLint configuration
+- Agendamento de serviços.
+- Consulta de horários disponíveis.
+- Organização dos atendimentos.
+- Gerenciamento administrativo.
+- Interface adaptada para facilitar a utilização.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Firebase
+- Firestore
+
+## 📱 Aplicativo
+
+Projeto desenvolvido para oferecer uma experiência prática de agendamento de serviços de beleza.
+
+## 👩‍💻 Desenvolvedor
+
+**Gestor-Lee**
+
+GitHub: https://github.com/gestor-lee
+
+---
+
+Projeto AL Nails Designers.
